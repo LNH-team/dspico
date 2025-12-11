@@ -1,5 +1,6 @@
 # DSpico Project Index
-This repository serves as an index for the DSpico project. See the repositories of the individual components for more information.
+This repository serves as an index for the DSpico project. DSpico Is The World's First Open-Source Nintendo DS Flash Cart.
+See the repositories of the individual components for more information.
 
 ## Guide
 See [here](GUIDE.md) for a guide that describes how to fully setup your DSpico.
