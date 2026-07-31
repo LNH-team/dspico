@@ -78,6 +78,7 @@ You should now have the following files:
 - `picoLoader9_DSPICO.bin`
 - `data/aplist.bin`
 - `data/savelist.bin`
+- `data/patchlist.bin`
 
 ## 8. Compiling Pico Launcher
 1. Clone the [Pico Launcher repository](https://github.com/LNH-team/pico-launcher)
@@ -96,7 +97,8 @@ You should now have `LAUNCHER.nds`.
 5. Copy `picoLoader9_DSPICO.bin` to `/_pico/picoLoader9.bin`.
 6. Copy `aplist.bin` to `/_pico/aplist.bin`.
 7. Copy `savelist.bin` to `/_pico/savelist.bin`.
-8. Copy any DS roms to your micro SD card. It is recommended to make a folder to put them in.
+8. Copy `patchlist.bin` to `/_pico/patchlist.bin`.
+9. Copy any DS roms to your micro SD card. It is recommended to make a folder to put them in.
 
 The final directory structure will look like this:
 ```
@@ -121,6 +123,7 @@ The final directory structure will look like this:
 │   │       └── topbg.bin
 │   ├── aplist.bin
 │   ├── savelist.bin
+│   ├── patchlist.bin
 │   ├── picoLoader7.bin
 │   └── picoLoader9.bin
 └── _picoboot.nds
